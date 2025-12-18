@@ -1,2 +1,3 @@
 # CAR-PRICE-PREDICTION
 AIML ASSESSMENT
+how to run the code
